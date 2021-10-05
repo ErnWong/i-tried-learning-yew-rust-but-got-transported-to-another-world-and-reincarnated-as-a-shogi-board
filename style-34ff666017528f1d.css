@@ -348,88 +348,88 @@ h1 a:hover {
 }
 
 .piece.black.king {
-  background-image: url('/assets/pieces/0GY.svg');
+  background-image: url('./assets/pieces/0GY.svg');
 }
 .piece.black.rook {
-  background-image: url('/assets/pieces/0HI.svg');
+  background-image: url('./assets/pieces/0HI.svg');
 }
 .piece.black.bishop {
-  background-image: url('/assets/pieces/0KA.svg');
+  background-image: url('./assets/pieces/0KA.svg');
 }
 .piece.black.gold {
-  background-image: url('/assets/pieces/0KI.svg');
+  background-image: url('./assets/pieces/0KI.svg');
 }
 .piece.black.silver {
-  background-image: url('/assets/pieces/0GI.svg');
+  background-image: url('./assets/pieces/0GI.svg');
 }
 .piece.black.knight {
-  background-image: url('/assets/pieces/0KE.svg');
+  background-image: url('./assets/pieces/0KE.svg');
 }
 .piece.black.lance {
-  background-image: url('/assets/pieces/0KY.svg');
+  background-image: url('./assets/pieces/0KY.svg');
 }
 .piece.black.pawn  {
-  background-image: url('/assets/pieces/0FU.svg');
+  background-image: url('./assets/pieces/0FU.svg');
 }
 .piece.black.promoted-rook  {
-  background-image: url('/assets/pieces/0RY.svg');
+  background-image: url('./assets/pieces/0RY.svg');
 }
 .piece.black.promoted-bishop  {
-  background-image: url('/assets/pieces/0UM.svg');
+  background-image: url('./assets/pieces/0UM.svg');
 }
 .piece.black.promoted-silver  {
-  background-image: url('/assets/pieces/0NG.svg');
+  background-image: url('./assets/pieces/0NG.svg');
 }
 .piece.black.promoted-knight  {
-  background-image: url('/assets/pieces/0NK.svg');
+  background-image: url('./assets/pieces/0NK.svg');
 }
 .piece.black.promoted-lance  {
-  background-image: url('/assets/pieces/0NY.svg');
+  background-image: url('./assets/pieces/0NY.svg');
 }
 .piece.black.promoted-pawn  {
-  background-image: url('/assets/pieces/0TO.svg');
+  background-image: url('./assets/pieces/0TO.svg');
 }
 .piece.white.king {
-  background-image: url('/assets/pieces/1OU.svg');
+  background-image: url('./assets/pieces/1OU.svg');
 }
 .piece.white.rook {
-  background-image: url('/assets/pieces/1HI.svg');
+  background-image: url('./assets/pieces/1HI.svg');
 }
 .piece.white.bishop {
-  background-image: url('/assets/pieces/1KA.svg');
+  background-image: url('./assets/pieces/1KA.svg');
 }
 .piece.white.gold {
-  background-image: url('/assets/pieces/1KI.svg');
+  background-image: url('./assets/pieces/1KI.svg');
 }
 .piece.white.silver {
-  background-image: url('/assets/pieces/1GI.svg');
+  background-image: url('./assets/pieces/1GI.svg');
 }
 .piece.white.knight {
-  background-image: url('/assets/pieces/1KE.svg');
+  background-image: url('./assets/pieces/1KE.svg');
 }
 .piece.white.lance {
-  background-image: url('/assets/pieces/1KY.svg');
+  background-image: url('./assets/pieces/1KY.svg');
 }
 .piece.white.pawn  {
-  background-image: url('/assets/pieces/1FU.svg');
+  background-image: url('./assets/pieces/1FU.svg');
 }
 .piece.white.promoted-rook  {
-  background-image: url('/assets/pieces/1RY.svg');
+  background-image: url('./assets/pieces/1RY.svg');
 }
 .piece.white.promoted-bishop  {
-  background-image: url('/assets/pieces/1UM.svg');
+  background-image: url('./assets/pieces/1UM.svg');
 }
 .piece.white.promoted-silver  {
-  background-image: url('/assets/pieces/1NG.svg');
+  background-image: url('./assets/pieces/1NG.svg');
 }
 .piece.white.promoted-knight  {
-  background-image: url('/assets/pieces/1NK.svg');
+  background-image: url('./assets/pieces/1NK.svg');
 }
 .piece.white.promoted-lance  {
-  background-image: url('/assets/pieces/1NY.svg');
+  background-image: url('./assets/pieces/1NY.svg');
 }
 .piece.white.promoted-pawn  {
-  background-image: url('/assets/pieces/1TO.svg');
+  background-image: url('./assets/pieces/1TO.svg');
 }
 
 .right {
